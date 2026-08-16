@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-constellations-are-my-disciples-1",
+      "mangaId": "the-constellations-are-my-disciples",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-constellations-are-my-disciples-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:33.401Z"
+    },
+    {
+      "id": "the-constellations-are-my-disciples-150",
+      "mangaId": "the-constellations-are-my-disciples",
+      "chapterNumber": "150",
+      "title": "Chapter Baru Chapter\n                        150",
+      "url": "https://komikindo.ch/the-constellations-are-my-disciples-chapter-150/",
+      "publishedAt": "2026-08-16T23:35:33.401Z"
+    }
+  ],
+  "total": 2
+}
