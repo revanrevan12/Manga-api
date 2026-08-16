@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-returnee-s-hidden-strategy-stream-1",
+      "mangaId": "the-returnee-s-hidden-strategy-stream",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-returnees-hidden-strategy-stream-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:34.378Z"
+    },
+    {
+      "id": "the-returnee-s-hidden-strategy-stream-42",
+      "mangaId": "the-returnee-s-hidden-strategy-stream",
+      "chapterNumber": "42",
+      "title": "Chapter Baru Chapter\n                        42",
+      "url": "https://komikindo.ch/the-returnees-hidden-strategy-stream-chapter-42/",
+      "publishedAt": "2026-08-16T23:35:34.378Z"
+    }
+  ],
+  "total": 2
+}
