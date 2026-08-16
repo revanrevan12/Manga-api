@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-1-1",
+      "mangaId": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru",
+      "chapterNumber": "1.1",
+      "title": "Chapter Awal Chapter\n                        1.1",
+      "url": "https://komikindo.ch/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-chapter-1-1/",
+      "publishedAt": "2026-08-16T23:35:31.692Z"
+    },
+    {
+      "id": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-197",
+      "mangaId": "drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru",
+      "chapterNumber": "197",
+      "title": "Chapter Baru Chapter\n                        197",
+      "url": "https://komikindo.ch/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru-chapter-197/",
+      "publishedAt": "2026-08-16T23:35:31.692Z"
+    }
+  ],
+  "total": 2
+}
