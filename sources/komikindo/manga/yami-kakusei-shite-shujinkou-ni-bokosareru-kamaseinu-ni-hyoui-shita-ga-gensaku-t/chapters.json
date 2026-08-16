@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-t",
+      "mangaId": "yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-t",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaisugite-tomadotteru-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:28.586Z"
+    },
+    {
+      "id": "yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-t",
+      "mangaId": "yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-t",
+      "chapterNumber": "7",
+      "title": "Chapter Baru Chapter\n                        7",
+      "url": "https://komikindo.ch/yami-kakusei-shite-shujinkou-ni-bokosareru-kamaseinu-ni-hyoui-shita-ga-gensaku-to-chigaisugite-tomadotteru-chapter-7/",
+      "publishedAt": "2026-08-16T23:35:28.586Z"
+    }
+  ],
+  "total": 2
+}
