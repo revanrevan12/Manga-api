@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "lover-s-doll-5",
+      "mangaId": "lover-s-doll",
+      "chapterNumber": "5",
+      "title": "Ch. 5",
+      "url": "https://wurmz.net/detail/manga/boneka-kekasih/chapter/5",
+      "publishedAt": "2026-08-16T21:19:58.142Z"
+    },
+    {
+      "id": "lover-s-doll-4",
+      "mangaId": "lover-s-doll",
+      "chapterNumber": "4",
+      "title": "Ch. 4",
+      "url": "https://wurmz.net/detail/manga/boneka-kekasih/chapter/4",
+      "publishedAt": "2026-08-16T21:19:58.142Z"
+    },
+    {
+      "id": "lover-s-doll-3",
+      "mangaId": "lover-s-doll",
+      "chapterNumber": "3",
+      "title": "Ch. 3",
+      "url": "https://wurmz.net/detail/manga/boneka-kekasih/chapter/3",
+      "publishedAt": "2026-08-16T21:19:58.142Z"
+    },
+    {
+      "id": "lover-s-doll-2",
+      "mangaId": "lover-s-doll",
+      "chapterNumber": "2",
+      "title": "Ch. 2",
+      "url": "https://wurmz.net/detail/manga/boneka-kekasih/chapter/2",
+      "publishedAt": "2026-08-16T21:19:58.142Z"
+    },
+    {
+      "id": "lover-s-doll-1",
+      "mangaId": "lover-s-doll",
+      "chapterNumber": "1",
+      "title": "Ch. 1",
+      "url": "https://wurmz.net/detail/manga/boneka-kekasih/chapter/1",
+      "publishedAt": "2026-08-16T21:19:58.142Z"
+    }
+  ],
+  "total": 5
+}
