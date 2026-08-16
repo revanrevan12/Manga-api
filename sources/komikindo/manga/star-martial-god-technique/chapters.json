@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "star-martial-god-technique-1",
+      "mangaId": "star-martial-god-technique",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/star-martial-god-technique-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:40.005Z"
+    },
+    {
+      "id": "star-martial-god-technique-820",
+      "mangaId": "star-martial-god-technique",
+      "chapterNumber": "820",
+      "title": "Chapter Baru Chapter\n                        820",
+      "url": "https://komikindo.ch/star-martial-god-technique-chapter-820/",
+      "publishedAt": "2026-08-16T23:35:40.005Z"
+    }
+  ],
+  "total": 2
+}
