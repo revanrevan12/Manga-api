@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-painless-player-1",
+      "mangaId": "the-painless-player",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-painless-player-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:27.731Z"
+    },
+    {
+      "id": "the-painless-player-29",
+      "mangaId": "the-painless-player",
+      "chapterNumber": "29",
+      "title": "Chapter Baru Chapter\n                        29",
+      "url": "https://komikindo.ch/the-painless-player-chapter-29/",
+      "publishedAt": "2026-08-16T23:35:27.731Z"
+    }
+  ],
+  "total": 2
+}
