@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "mad-mad-1",
+      "mangaId": "mad-mad",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/mad-mad-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:40.843Z"
+    },
+    {
+      "id": "mad-mad-5",
+      "mangaId": "mad-mad",
+      "chapterNumber": "5",
+      "title": "Chapter Baru Chapter\n                        5",
+      "url": "https://komikindo.ch/mad-mad-chapter-5/",
+      "publishedAt": "2026-08-16T23:35:40.843Z"
+    }
+  ],
+  "total": 2
+}
