@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "full-time-awakening-1",
+      "mangaId": "full-time-awakening",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/full-time-awakening-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:15.299Z"
+    },
+    {
+      "id": "full-time-awakening-154",
+      "mangaId": "full-time-awakening",
+      "chapterNumber": "154",
+      "title": "Chapter Baru Chapter\n                        154",
+      "url": "https://komikindo.ch/full-time-awakening-chapter-154/",
+      "publishedAt": "2026-08-16T23:35:15.299Z"
+    }
+  ],
+  "total": 2
+}
