@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "time-healer-ceres-1",
+      "mangaId": "time-healer-ceres",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/time-healer-ceres-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:41.790Z"
+    },
+    {
+      "id": "time-healer-ceres-19",
+      "mangaId": "time-healer-ceres",
+      "chapterNumber": "19",
+      "title": "Chapter Baru Chapter\n                        19",
+      "url": "https://komikindo.ch/time-healer-ceres-chapter-19/",
+      "publishedAt": "2026-08-16T23:35:41.790Z"
+    }
+  ],
+  "total": 2
+}
