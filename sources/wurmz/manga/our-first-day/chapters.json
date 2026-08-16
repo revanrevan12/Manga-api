@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "our-first-day-5",
+      "mangaId": "our-first-day",
+      "chapterNumber": "5",
+      "title": "Ch. 5",
+      "url": "https://wurmz.net/detail/manhwa/hari-pertama-kami/chapter/5",
+      "publishedAt": "2026-08-16T21:19:59.982Z"
+    },
+    {
+      "id": "our-first-day-4",
+      "mangaId": "our-first-day",
+      "chapterNumber": "4",
+      "title": "Ch. 4",
+      "url": "https://wurmz.net/detail/manhwa/hari-pertama-kami/chapter/4",
+      "publishedAt": "2026-08-16T21:19:59.982Z"
+    },
+    {
+      "id": "our-first-day-3",
+      "mangaId": "our-first-day",
+      "chapterNumber": "3",
+      "title": "Ch. 3",
+      "url": "https://wurmz.net/detail/manhwa/hari-pertama-kami/chapter/3",
+      "publishedAt": "2026-08-16T21:19:59.982Z"
+    },
+    {
+      "id": "our-first-day-2",
+      "mangaId": "our-first-day",
+      "chapterNumber": "2",
+      "title": "Ch. 2",
+      "url": "https://wurmz.net/detail/manhwa/hari-pertama-kami/chapter/2",
+      "publishedAt": "2026-08-16T21:19:59.982Z"
+    },
+    {
+      "id": "our-first-day-1",
+      "mangaId": "our-first-day",
+      "chapterNumber": "1",
+      "title": "Ch. 1",
+      "url": "https://wurmz.net/detail/manhwa/hari-pertama-kami/chapter/1",
+      "publishedAt": "2026-08-16T21:19:59.982Z"
+    }
+  ],
+  "total": 5
+}
