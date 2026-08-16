@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "greetings-sect-leader-1",
+      "mangaId": "greetings-sect-leader",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/greetings-sect-leader-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:23.156Z"
+    },
+    {
+      "id": "greetings-sect-leader-31",
+      "mangaId": "greetings-sect-leader",
+      "chapterNumber": "31",
+      "title": "Chapter Baru Chapter\n                        31",
+      "url": "https://komikindo.ch/greetings-sect-leader-chapter-31/",
+      "publishedAt": "2026-08-16T23:35:23.156Z"
+    }
+  ],
+  "total": 2
+}
