@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-cold-blooded-warrior-1",
+      "mangaId": "the-cold-blooded-warrior",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-cold-blooded-warrior-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:25.977Z"
+    },
+    {
+      "id": "the-cold-blooded-warrior-61",
+      "mangaId": "the-cold-blooded-warrior",
+      "chapterNumber": "61",
+      "title": "Chapter Baru Chapter\n                        61",
+      "url": "https://komikindo.ch/the-cold-blooded-warrior-chapter-61/",
+      "publishedAt": "2026-08-16T23:35:25.977Z"
+    }
+  ],
+  "total": 2
+}
