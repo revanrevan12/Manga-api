@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "max-level-player-1",
+      "mangaId": "max-level-player",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/max-level-player-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:25.100Z"
+    },
+    {
+      "id": "max-level-player-79",
+      "mangaId": "max-level-player",
+      "chapterNumber": "79",
+      "title": "Chapter Baru Chapter\n                        79",
+      "url": "https://komikindo.ch/max-level-player-chapter-79/",
+      "publishedAt": "2026-08-16T23:35:25.100Z"
+    }
+  ],
+  "total": 2
+}
