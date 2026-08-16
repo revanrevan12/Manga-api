@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "king-account-at-the-start-00",
+      "mangaId": "king-account-at-the-start",
+      "chapterNumber": "00",
+      "title": "Chapter Awal Chapter\n                        00",
+      "url": "https://komikindo.ch/king-account-at-the-start-chapter-00/",
+      "publishedAt": "2026-08-16T23:35:29.787Z"
+    },
+    {
+      "id": "king-account-at-the-start-279",
+      "mangaId": "king-account-at-the-start",
+      "chapterNumber": "279",
+      "title": "Chapter Baru Chapter\n                        279",
+      "url": "https://komikindo.ch/king-account-at-the-start-chapter-279/",
+      "publishedAt": "2026-08-16T23:35:29.788Z"
+    }
+  ],
+  "total": 2
+}
