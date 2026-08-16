@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "dog-bite-dog-1",
+      "mangaId": "dog-bite-dog",
+      "chapterNumber": "1",
+      "title": "Ch. 1",
+      "url": "https://wurmz.net/detail/manhwa/anjing-saling-gigit/chapter/1",
+      "publishedAt": "2026-08-16T21:20:00.892Z"
+    }
+  ],
+  "total": 1
+}
