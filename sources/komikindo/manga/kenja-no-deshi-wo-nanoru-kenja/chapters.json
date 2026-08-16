@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "kenja-no-deshi-wo-nanoru-kenja-1",
+      "mangaId": "kenja-no-deshi-wo-nanoru-kenja",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/kenja-no-deshi-wo-nanoru-kenja-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:32.517Z"
+    },
+    {
+      "id": "kenja-no-deshi-wo-nanoru-kenja-70",
+      "mangaId": "kenja-no-deshi-wo-nanoru-kenja",
+      "chapterNumber": "70",
+      "title": "Chapter Baru Chapter\n                        70",
+      "url": "https://komikindo.ch/kenja-no-deshi-wo-nanoru-kenja-chapter-70/",
+      "publishedAt": "2026-08-16T23:35:32.517Z"
+    }
+  ],
+  "total": 2
+}
