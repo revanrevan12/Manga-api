@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "junai-drop-out-6",
+      "mangaId": "junai-drop-out",
+      "chapterNumber": "6",
+      "title": "Ch. 6",
+      "url": "https://wurmz.net/detail/manga/junai-putus-sekolah/chapter/6",
+      "publishedAt": "2026-08-16T21:19:59.013Z"
+    },
+    {
+      "id": "junai-drop-out-5",
+      "mangaId": "junai-drop-out",
+      "chapterNumber": "5",
+      "title": "Ch. 5",
+      "url": "https://wurmz.net/detail/manga/junai-putus-sekolah/chapter/5",
+      "publishedAt": "2026-08-16T21:19:59.013Z"
+    },
+    {
+      "id": "junai-drop-out-4",
+      "mangaId": "junai-drop-out",
+      "chapterNumber": "4",
+      "title": "Ch. 4",
+      "url": "https://wurmz.net/detail/manga/junai-putus-sekolah/chapter/4",
+      "publishedAt": "2026-08-16T21:19:59.013Z"
+    },
+    {
+      "id": "junai-drop-out-3",
+      "mangaId": "junai-drop-out",
+      "chapterNumber": "3",
+      "title": "Ch. 3",
+      "url": "https://wurmz.net/detail/manga/junai-putus-sekolah/chapter/3",
+      "publishedAt": "2026-08-16T21:19:59.013Z"
+    },
+    {
+      "id": "junai-drop-out-2",
+      "mangaId": "junai-drop-out",
+      "chapterNumber": "2",
+      "title": "Ch. 2",
+      "url": "https://wurmz.net/detail/manga/junai-putus-sekolah/chapter/2",
+      "publishedAt": "2026-08-16T21:19:59.013Z"
+    },
+    {
+      "id": "junai-drop-out-1",
+      "mangaId": "junai-drop-out",
+      "chapterNumber": "1",
+      "title": "Ch. 1",
+      "url": "https://wurmz.net/detail/manga/junai-putus-sekolah/chapter/1",
+      "publishedAt": "2026-08-16T21:19:59.013Z"
+    }
+  ],
+  "total": 6
+}
