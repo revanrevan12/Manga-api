@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "holy-knight-1",
+      "mangaId": "holy-knight",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/holy-knight-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:30.771Z"
+    },
+    {
+      "id": "holy-knight-27",
+      "mangaId": "holy-knight",
+      "chapterNumber": "27",
+      "title": "Chapter Baru Chapter\n                        27",
+      "url": "https://komikindo.ch/holy-knight-chapter-27/",
+      "publishedAt": "2026-08-16T23:35:30.771Z"
+    }
+  ],
+  "total": 2
+}
