@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "academy-s-genius-swordmaster-1",
+      "mangaId": "academy-s-genius-swordmaster",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/academys-genius-swordmaster-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:19.000Z"
+    },
+    {
+      "id": "academy-s-genius-swordmaster-150",
+      "mangaId": "academy-s-genius-swordmaster",
+      "chapterNumber": "150",
+      "title": "Chapter Baru Chapter\n                        150",
+      "url": "https://komikindo.ch/academys-genius-swordmaster-chapter-150/",
+      "publishedAt": "2026-08-16T23:35:19.000Z"
+    }
+  ],
+  "total": 2
+}
