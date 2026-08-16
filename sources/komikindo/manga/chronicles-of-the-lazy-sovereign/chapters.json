@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "chronicles-of-the-lazy-sovereign-1",
+      "mangaId": "chronicles-of-the-lazy-sovereign",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/chronicles-of-the-lazy-sovereign-chapter-1/",
+      "publishedAt": "2026-08-16T23:35:18.059Z"
+    },
+    {
+      "id": "chronicles-of-the-lazy-sovereign-60",
+      "mangaId": "chronicles-of-the-lazy-sovereign",
+      "chapterNumber": "60",
+      "title": "Chapter Baru Chapter\n                        60",
+      "url": "https://komikindo.ch/chronicles-of-the-lazy-sovereign-chapter-60/",
+      "publishedAt": "2026-08-16T23:35:18.059Z"
+    }
+  ],
+  "total": 2
+}
