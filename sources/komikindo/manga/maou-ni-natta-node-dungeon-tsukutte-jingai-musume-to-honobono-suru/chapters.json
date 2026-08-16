@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru-01",
+      "mangaId": "maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru",
+      "chapterNumber": "01",
+      "title": "Chapter Awal Chapter\n                        01",
+      "url": "https://komikindo.ch/maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru-chapter-01/",
+      "publishedAt": "2026-08-16T23:35:38.040Z"
+    },
+    {
+      "id": "maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru-92-1",
+      "mangaId": "maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru",
+      "chapterNumber": "92.1",
+      "title": "Chapter Baru Chapter\n                        92.1",
+      "url": "https://komikindo.ch/maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru-chapter-92-1/",
+      "publishedAt": "2026-08-16T23:35:38.040Z"
+    }
+  ],
+  "total": 2
+}
