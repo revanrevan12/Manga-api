@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "debut-or-die-1",
+      "mangaId": "debut-or-die",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/debut-or-die-chapter-1/",
+      "publishedAt": "2026-08-17T12:32:24.534Z"
+    },
+    {
+      "id": "debut-or-die-113",
+      "mangaId": "debut-or-die",
+      "chapterNumber": "113",
+      "title": "Chapter Baru Chapter\n                        113",
+      "url": "https://komikindo.ch/debut-or-die-chapter-113/",
+      "publishedAt": "2026-08-17T12:32:24.534Z"
+    }
+  ],
+  "total": 2
+}
