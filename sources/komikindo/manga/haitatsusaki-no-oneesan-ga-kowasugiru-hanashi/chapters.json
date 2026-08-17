@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "haitatsusaki-no-oneesan-ga-kowasugiru-hanashi-1",
+      "mangaId": "haitatsusaki-no-oneesan-ga-kowasugiru-hanashi",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/haitatsusaki-no-oneesan-ga-kowasugiru-hanashi-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:48.499Z"
+    },
+    {
+      "id": "haitatsusaki-no-oneesan-ga-kowasugiru-hanashi-13",
+      "mangaId": "haitatsusaki-no-oneesan-ga-kowasugiru-hanashi",
+      "chapterNumber": "13",
+      "title": "Chapter Baru Chapter\n                        13",
+      "url": "https://komikindo.ch/haitatsusaki-no-oneesan-ga-kowasugiru-hanashi-chapter-13/",
+      "publishedAt": "2026-08-17T10:37:48.499Z"
+    }
+  ],
+  "total": 2
+}
