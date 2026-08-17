@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "i-m-a-romance-major-freshman-1",
+      "mangaId": "i-m-a-romance-major-freshman",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/im-a-romance-major-freshman-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:49.497Z"
+    },
+    {
+      "id": "i-m-a-romance-major-freshman-7",
+      "mangaId": "i-m-a-romance-major-freshman",
+      "chapterNumber": "7",
+      "title": "Chapter Baru Chapter\n                        7",
+      "url": "https://komikindo.ch/im-a-romance-major-freshman-chapter-7/",
+      "publishedAt": "2026-08-17T10:37:49.497Z"
+    }
+  ],
+  "total": 2
+}
