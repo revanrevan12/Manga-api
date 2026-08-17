@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "gimai-seikatsu-1",
+      "mangaId": "gimai-seikatsu",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/gimai-seikatsu-chapter-1/",
+      "publishedAt": "2026-08-17T12:32:29.086Z"
+    },
+    {
+      "id": "gimai-seikatsu-40-2",
+      "mangaId": "gimai-seikatsu",
+      "chapterNumber": "40.2",
+      "title": "Chapter Baru Chapter\n                        40.2",
+      "url": "https://komikindo.ch/gimai-seikatsu-chapter-40-2/",
+      "publishedAt": "2026-08-17T12:32:29.086Z"
+    }
+  ],
+  "total": 2
+}
