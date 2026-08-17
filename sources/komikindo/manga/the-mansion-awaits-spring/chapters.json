@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-mansion-awaits-spring-1",
+      "mangaId": "the-mansion-awaits-spring",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-mansion-awaits-spring-chapter-1/",
+      "publishedAt": "2026-08-17T12:32:21.956Z"
+    },
+    {
+      "id": "the-mansion-awaits-spring-28",
+      "mangaId": "the-mansion-awaits-spring",
+      "chapterNumber": "28",
+      "title": "Chapter Baru Chapter\n                        28",
+      "url": "https://komikindo.ch/the-mansion-awaits-spring-chapter-28/",
+      "publishedAt": "2026-08-17T12:32:21.956Z"
+    }
+  ],
+  "total": 2
+}
