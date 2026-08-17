@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri-1",
+      "mangaId": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri-chapter-1/",
+      "publishedAt": "2026-08-17T12:32:32.558Z"
+    },
+    {
+      "id": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri-12",
+      "mangaId": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri",
+      "chapterNumber": "12",
+      "title": "Chapter Baru Chapter\n                        12",
+      "url": "https://komikindo.ch/muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri-chapter-12/",
+      "publishedAt": "2026-08-17T12:32:32.558Z"
+    }
+  ],
+  "total": 2
+}
