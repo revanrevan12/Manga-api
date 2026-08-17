@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-king-semo-1",
+      "mangaId": "the-king-semo",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-king-semo-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:44.416Z"
+    },
+    {
+      "id": "the-king-semo-5",
+      "mangaId": "the-king-semo",
+      "chapterNumber": "5",
+      "title": "Chapter Baru Chapter\n                        5",
+      "url": "https://komikindo.ch/the-king-semo-chapter-5/",
+      "publishedAt": "2026-08-17T10:37:44.416Z"
+    }
+  ],
+  "total": 2
+}
