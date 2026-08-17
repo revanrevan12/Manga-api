@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "furoufushi-shoujo-no-naedoko-ryokouki-1",
+      "mangaId": "furoufushi-shoujo-no-naedoko-ryokouki",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/furoufushi-shoujo-no-naedoko-ryokouki-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:45.386Z"
+    },
+    {
+      "id": "furoufushi-shoujo-no-naedoko-ryokouki-21",
+      "mangaId": "furoufushi-shoujo-no-naedoko-ryokouki",
+      "chapterNumber": "21",
+      "title": "Chapter Baru Chapter\n                        21",
+      "url": "https://komikindo.ch/furoufushi-shoujo-no-naedoko-ryokouki-chapter-21/",
+      "publishedAt": "2026-08-17T10:37:45.386Z"
+    }
+  ],
+  "total": 2
+}
