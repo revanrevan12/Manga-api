@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "dachou-juujin-no-hachamecha-musou-aho-kawaii-saikyou-shuzoku-no-leader-ni-narima",
+      "mangaId": "dachou-juujin-no-hachamecha-musou-aho-kawaii-saikyou-shuzoku-no-leader-ni-narima",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/dachou-juujin-no-hachamecha-musou-aho-kawaii-saikyou-shuzoku-no-leader-ni-narimashita-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:39.542Z"
+    },
+    {
+      "id": "dachou-juujin-no-hachamecha-musou-aho-kawaii-saikyou-shuzoku-no-leader-ni-narima",
+      "mangaId": "dachou-juujin-no-hachamecha-musou-aho-kawaii-saikyou-shuzoku-no-leader-ni-narima",
+      "chapterNumber": "2",
+      "title": "Chapter Baru Chapter\n                        2",
+      "url": "https://komikindo.ch/dachou-juujin-no-hachamecha-musou-aho-kawaii-saikyou-shuzoku-no-leader-ni-narimashita-chapter-2/",
+      "publishedAt": "2026-08-17T10:37:39.542Z"
+    }
+  ],
+  "total": 2
+}
