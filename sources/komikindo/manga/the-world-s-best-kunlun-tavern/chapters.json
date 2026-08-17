@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-world-s-best-kunlun-tavern-1",
+      "mangaId": "the-world-s-best-kunlun-tavern",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-worlds-best-kunlun-tavern-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:50.333Z"
+    },
+    {
+      "id": "the-world-s-best-kunlun-tavern-123",
+      "mangaId": "the-world-s-best-kunlun-tavern",
+      "chapterNumber": "123",
+      "title": "Chapter Baru Chapter\n                        123",
+      "url": "https://komikindo.ch/the-worlds-best-kunlun-tavern-chapter-123/",
+      "publishedAt": "2026-08-17T10:37:50.333Z"
+    }
+  ],
+  "total": 2
+}
