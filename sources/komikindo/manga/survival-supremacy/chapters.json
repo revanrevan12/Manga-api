@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "survival-supremacy-1",
+      "mangaId": "survival-supremacy",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/survival-supremacy-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:37.566Z"
+    },
+    {
+      "id": "survival-supremacy-5",
+      "mangaId": "survival-supremacy",
+      "chapterNumber": "5",
+      "title": "Chapter Baru Chapter\n                        5",
+      "url": "https://komikindo.ch/survival-supremacy-chapter-5/",
+      "publishedAt": "2026-08-17T10:37:37.566Z"
+    }
+  ],
+  "total": 2
+}
