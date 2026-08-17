@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "revenge-of-the-iron-blooded-sword-hound-1",
+      "mangaId": "revenge-of-the-iron-blooded-sword-hound",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/revenge-of-the-iron-blooded-sword-hound-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:30.451Z"
+    },
+    {
+      "id": "revenge-of-the-iron-blooded-sword-hound-176",
+      "mangaId": "revenge-of-the-iron-blooded-sword-hound",
+      "chapterNumber": "176",
+      "title": "Chapter Baru Chapter\n                        176",
+      "url": "https://komikindo.ch/revenge-of-the-iron-blooded-sword-hound-chapter-176/",
+      "publishedAt": "2026-08-17T10:37:30.451Z"
+    }
+  ],
+  "total": 2
+}
