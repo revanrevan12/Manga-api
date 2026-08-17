@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "marriage-protection-scandal-1",
+      "mangaId": "marriage-protection-scandal",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/marriage-protection-scandal-chapter-1/",
+      "publishedAt": "2026-08-17T12:32:20.778Z"
+    },
+    {
+      "id": "marriage-protection-scandal-21",
+      "mangaId": "marriage-protection-scandal",
+      "chapterNumber": "21",
+      "title": "Chapter Baru Chapter\n                        21",
+      "url": "https://komikindo.ch/marriage-protection-scandal-chapter-21/",
+      "publishedAt": "2026-08-17T12:32:20.778Z"
+    }
+  ],
+  "total": 2
+}
