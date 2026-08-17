@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "kaijin-fugeki-1",
+      "mangaId": "kaijin-fugeki",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/kaijin-fugeki-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:46.408Z"
+    },
+    {
+      "id": "kaijin-fugeki-1",
+      "mangaId": "kaijin-fugeki",
+      "chapterNumber": "1",
+      "title": "Chapter Baru Chapter\n                        1",
+      "url": "https://komikindo.ch/kaijin-fugeki-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:46.408Z"
+    }
+  ],
+  "total": 2
+}
