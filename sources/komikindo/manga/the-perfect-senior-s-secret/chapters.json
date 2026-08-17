@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-perfect-senior-s-secret-1",
+      "mangaId": "the-perfect-senior-s-secret",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-perfect-seniors-secret-chapter-1/",
+      "publishedAt": "2026-08-17T12:32:22.872Z"
+    },
+    {
+      "id": "the-perfect-senior-s-secret-21",
+      "mangaId": "the-perfect-senior-s-secret",
+      "chapterNumber": "21",
+      "title": "Chapter Baru Chapter\n                        21",
+      "url": "https://komikindo.ch/the-perfect-seniors-secret-chapter-21/",
+      "publishedAt": "2026-08-17T12:32:22.872Z"
+    }
+  ],
+  "total": 2
+}
