@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-ultimate-of-all-ages-1",
+      "mangaId": "the-ultimate-of-all-ages",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-ultimate-of-all-ages-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:42.537Z"
+    },
+    {
+      "id": "the-ultimate-of-all-ages-557",
+      "mangaId": "the-ultimate-of-all-ages",
+      "chapterNumber": "557",
+      "title": "Chapter Baru Chapter\n                        557",
+      "url": "https://komikindo.ch/the-ultimate-of-all-ages-chapter-557/",
+      "publishedAt": "2026-08-17T10:37:42.537Z"
+    }
+  ],
+  "total": 2
+}
