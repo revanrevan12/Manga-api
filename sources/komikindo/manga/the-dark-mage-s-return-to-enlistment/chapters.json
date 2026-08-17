@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-dark-mage-s-return-to-enlistment-1",
+      "mangaId": "the-dark-mage-s-return-to-enlistment",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-dark-mages-return-to-enlistment-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:56.437Z"
+    },
+    {
+      "id": "the-dark-mage-s-return-to-enlistment-98",
+      "mangaId": "the-dark-mage-s-return-to-enlistment",
+      "chapterNumber": "98",
+      "title": "Chapter Baru Chapter\n                        98",
+      "url": "https://komikindo.ch/the-dark-mages-return-to-enlistment-chapter-98/",
+      "publishedAt": "2026-08-17T10:37:56.437Z"
+    }
+  ],
+  "total": 2
+}
