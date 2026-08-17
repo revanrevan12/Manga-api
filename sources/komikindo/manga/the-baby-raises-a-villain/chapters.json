@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-baby-raises-a-villain-1",
+      "mangaId": "the-baby-raises-a-villain",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-baby-raises-a-villain-chapter-1/",
+      "publishedAt": "2026-08-17T10:37:51.292Z"
+    },
+    {
+      "id": "the-baby-raises-a-villain-47",
+      "mangaId": "the-baby-raises-a-villain",
+      "chapterNumber": "47",
+      "title": "Chapter Baru Chapter\n                        47",
+      "url": "https://komikindo.ch/the-baby-raises-a-villain-chapter-47/",
+      "publishedAt": "2026-08-17T10:37:51.292Z"
+    }
+  ],
+  "total": 2
+}
