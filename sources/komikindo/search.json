@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "id": "oversummoned-overpowered-and-over-it",
+      "title": "Oversummoned, Overpowered, and Over It!",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/08/Komik-Metcha-Shoukan-Sareta-Ken-Tsugutoku-236x306.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
       "id": "max-level-player",
       "title": "Max Level Player",
       "cover": "https://komikindo.ch/wp-content/uploads/2023/03/Komik-Max-Level-Player-223x319.jpg",
@@ -51,9 +58,79 @@
       "source": "komikindo"
     },
     {
-      "id": "chronicles-of-the-lazy-sovereign",
-      "title": "Chronicles of the Lazy Sovereign",
-      "cover": "https://komikindo.ch/wp-content/uploads/2025/07/Komik-Chronicles-of-the-Lazy-Sovereign-220x319.jpg",
+      "id": "marriage-protection-scandal",
+      "title": "Marriage Protection Scandal",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/06/Komik-Marriage-Protection-Scandal-220x319.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "the-mansion-awaits-spring",
+      "title": "The Mansion Awaits Spring",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/07/Komik-The-Manor-Awaits-Spring-223x319.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "the-perfect-senior-s-secret",
+      "title": "The Perfect Senior’s Secret!",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/07/Komik-The-Perfect-Seniors-Secret-220x319.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "debut-or-die",
+      "title": "Debut or Die",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/05/Komik-Debut-or-Die-224x319.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "star-martial-god-technique",
+      "title": "Star Martial God Technique",
+      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-Star-Martial-God-Technique-228x319.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "daytime-in-the-bunker",
+      "title": "Daytime in the Bunker",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/05/Komik-Daytime-in-the-Bunker-220x319.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "bizzare-restaurant",
+      "title": "Bizzare Restaurant",
+      "cover": "https://komikindo.ch/wp-content/uploads/2022/11/Komik-Bizzare-Restaurant-223x319.png",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "gimai-seikatsu",
+      "title": "Gimai Seikatsu",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/07/Komik-Gimai-Seikatsu-226x319.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "leveling-in-the-future",
+      "title": "Leveling In The Future",
+      "cover": "https://komikindo.ch/wp-content/uploads/2023/01/Komik-Leveling-In-The-Future-236x313.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "mayonaka-heart-tune",
+      "title": "Mayonaka Heart Tune",
+      "cover": "https://komikindo.ch/wp-content/uploads/2023/09/Komik-Mayonaka-Heart-Tune-224x319.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri",
+      "title": "Muboubi Kawaii Pajama Sugata no Bishoujo to Heya de Futarikiri",
+      "cover": "https://komikindo.ch/wp-content/uploads/2025/04/Komik-Muboubi-Kawaii-Pajama-Sugata-no-Bishoujo-to-Heya-de-Futarikiri-236x148.png",
       "author": "",
       "source": "komikindo"
     },
@@ -149,149 +226,156 @@
       "source": "komikindo"
     },
     {
-      "id": "haitatsusaki-no-oneesan-ga-kowasugiru-hanashi",
-      "title": "Haitatsusaki no Oneesan ga Kowasugiru Hanashi",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/08/Komik-Haitatsusaki-no-Oneesan-ga-Kowasugiru-Hanashi-219x319.jpg",
+      "id": "marriage-protection-scandal",
+      "title": "Marriage Protection Scandal",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/06/Komik-Marriage-Protection-Scandal-220x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "i-m-a-romance-major-freshman",
-      "title": "I'm a Romance Major Freshman",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/08/Komik-Im-a-Romance-Major-Freshman-220x319.jpg",
+      "id": "the-mansion-awaits-spring",
+      "title": "The Mansion Awaits Spring",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/07/Komik-The-Manor-Awaits-Spring-223x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "the-world-s-best-kunlun-tavern",
-      "title": "The World’s Best Kunlun Tavern",
-      "cover": "https://komikindo.ch/wp-content/uploads/2025/03/Komik-The-Worlds-Best-Kunlun-Tavern-223x319.jpg",
+      "id": "the-perfect-senior-s-secret",
+      "title": "The Perfect Senior’s Secret!",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/07/Komik-The-Perfect-Seniors-Secret-220x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "the-baby-raises-a-villain",
-      "title": "The Baby Raises a Villain",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/03/Komik-The-Baby-Raises-a-Villain-223x319.jpg",
+      "id": "debut-or-die",
+      "title": "Debut or Die",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/05/Komik-Debut-or-Die-224x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "the-genius-midfielder-s-pass-is-special",
-      "title": "The Genius Midfielder’s Pass Is Special",
-      "cover": "https://komikindo.ch/wp-content/uploads/2025/08/Komik-The-Genius-Midfielders-Pass-Is-Special-220x319.jpg",
+      "id": "star-martial-god-technique",
+      "title": "Star Martial God Technique",
+      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-Star-Martial-God-Technique-228x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "oversummoned-overpowered-and-over-it",
-      "title": "Oversummoned, Overpowered, and Over It!",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/08/Komik-Metcha-Shoukan-Sareta-Ken-Tsugutoku-236x306.jpg",
+      "id": "daytime-in-the-bunker",
+      "title": "Daytime in the Bunker",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/05/Komik-Daytime-in-the-Bunker-220x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "the-s-classes-that-i-raised",
-      "title": "The S-Classes That I Raised",
-      "cover": "https://komikindo.ch/wp-content/uploads/2021/11/Manhwa-The-S-Classes-That-I-Raised-236x309.jpg",
+      "id": "bizzare-restaurant",
+      "title": "Bizzare Restaurant",
+      "cover": "https://komikindo.ch/wp-content/uploads/2022/11/Komik-Bizzare-Restaurant-223x319.png",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "the-dark-mage-s-return-to-enlistment",
-      "title": "The Dark Mage’s Return to Enlistment",
-      "cover": "https://komikindo.ch/wp-content/uploads/2023/03/Komik-The-Dark-Mages-Return-to-Enlistment-220x319.jpg",
+      "id": "leveling-in-the-future",
+      "title": "Leveling In The Future",
+      "cover": "https://komikindo.ch/wp-content/uploads/2023/01/Komik-Leveling-In-The-Future-236x313.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "en-travesti-i-became-a-fake-prince",
-      "title": "En Travesti - I Became a Fake Prince",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/07/Komik-En-Travesti-I-Became-a-Fake-Prince-224x319.png",
+      "id": "hatsukoi-maze",
+      "title": "Hatsukoi Maze",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/01/Komik-Hatsukoi-Maze-219x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "god-of-wine-seong-hye",
-      "title": "God of Wine (Seong-Hye)",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/08/Komik-God-of-Wine-Seong-Hye-220x319.jpg",
+      "id": "yurufuwa-nouka-no-mojibake-skill-isekai-de-katarogu-tsuuhan-yattemasu",
+      "title": "Yurufuwa Nouka no Mojibake Skill ~Isekai de Katarogu Tsuuhan Yattemasu~",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/05/Komik-Yurufuwa-Nouka-no-Mojibake-Skill-Isekai-de-Katarogu-Tsuuhan-Yattemasu-224x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "shujinkou-sama-no-imouto-ni-aisarete-iru-kedo-shikkari-yandere",
-      "title": "Shujinkou-sama no Imouto ni Aisarete Iru Kedo, Shikkari Yandere",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/08/Komik-Shujinkou-sama-no-Imouto-ni-Aisareteiru-kedo-Shikkari-Yandere-226x319.jpg",
+      "id": "reincarnated-as-a-scumbag-i-use-my-wife-and-daughter-to-prove-immortality",
+      "title": "Reincarnated as a Scumbag, I Use My Wife and Daughter to Prove Immortality",
+      "cover": "https://komikindo.ch/wp-content/uploads/2025/06/Komik-Reincarnated-as-a-Scumbag-I-Use-My-Wife-and-Daughter-to-Prove-Immortality-236x315.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "the-regressed-son-of-a-duke-is-an-assassin",
-      "title": "The Regressed Son of a Duke is an Assassin",
-      "cover": "https://komikindo.ch/wp-content/uploads/2024/02/Komik-The-Regressed-Son-of-a-Duke-is-an-Assassin-220x319.jpg",
+      "id": "kanojo-ni-naru-hi-another",
+      "title": "Kanojo ni Naru Hi Another",
+      "cover": "https://komikindo.ch/wp-content/uploads/2022/05/Komik-Kanojo-ni-Naru-Hi-Another-203x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "survival-supremacy",
-      "title": "Survival Supremacy",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/08/Komik-Survivalism-220x319.jpg",
+      "id": "the-youngest-hides-way-too-much",
+      "title": "The Youngest Hides Way Too Much",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/01/Komik-The-Youngest-Hides-Way-Too-Much-223x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "the-rebirth-of-the-hero-s-party-s-archmage",
-      "title": "The Rebirth of the Hero’s Party’s Archmage",
-      "cover": "https://komikindo.ch/wp-content/uploads/2024/05/Komik-The-Rebirth-of-the-Heros-Partys-Archmage-223x319.jpg",
+      "id": "tsuki-no-oki-ni-mesu-mama",
+      "title": "Tsuki no Oki ni Mesu mama",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/01/Komik-Tsuki-no-Oki-ni-Mesu-mama-203x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "player-who-returned-10-000-years-later",
-      "title": "Player Who Returned 10,000 Years Later",
-      "cover": "https://komikindo.ch/wp-content/uploads/2022/08/Komik-Player-Who-Returned-10000-Years-Later-223x319.jpg",
+      "id": "the-story-of-my-sister-s-annoying-friend",
+      "title": "The Story of My Sister’s Annoying Friend",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/11/Komik-The-Story-of-My-Sisters-Annoying-Friend-236x177.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "a-wimp-s-strategy-guide-to-conquer-the-tower",
-      "title": "A Wimp’s Strategy Guide to Conquer the Tower",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/01/Komik-A-Wimps-Strategy-Guide-to-Conquer-the-Tower-220x319.png",
+      "id": "shino-to-ren",
+      "title": "Shino to Ren",
+      "cover": "https://komikindo.ch/wp-content/uploads/2023/09/Komik-Shino-to-Ren-225x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "the-ultimate-of-all-ages",
-      "title": "The Ultimate of All Ages",
-      "cover": "https://komikindo.ch/wp-content/uploads/2021/06/Komik-The-Ultimate-of-All-Ages-236x313.jpg",
+      "id": "nidome-no-jinsei-wo-isekai-de",
+      "title": "Nidome no Jinsei wo Isekai de",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/01/Komik-Nidome-no-Jinsei-wo-Isekai-de-224x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "the-king-semo",
-      "title": "The King (SEMO)",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/08/Komik-The-King-SEMO-1-220x319.jpg",
+      "id": "isekai-summoner-shinwa-no-kaibutsu-tachi-to-gendai-de-musou-suru-uragirareta-mot",
+      "title": "Isekai Summoner, Shinwa no Kaibutsu-tachi to Gendai de Musou suru: Uragirareta Moto Eiyuu wa, Aikasaname na Nakama to Heiwa ni Kurashitai",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/01/Komik-Isekai-Summoner-Shinwa-no-Kaibutsu-tachi-to-Gendai-de-Musou-suru-Uragirareta-Moto-Eiyuu-wa-Aikasaname-na-Nakama-to-Heiwa-ni-Kurashitai-224x319.png",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "i-m-a-romance-major-freshman",
-      "title": "I'm a Romance Major Freshman",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/08/Komik-Im-a-Romance-Major-Freshman-220x319.jpg",
+      "id": "kiraware-yuusha-o-enjita-ore-wa-naze-ka-last-boss-ni-sukarete-issho-ni-seikatsu-",
+      "title": "Kiraware Yuusha O Enjita Ore Wa, Naze Ka Last Boss Ni Sukarete Issho Ni Seikatsu Shitemasu!",
+      "cover": "https://komikindo.ch/wp-content/uploads/2023/05/Komik-Kiraware-Yuusha-wo-Enjita-Ore-wa-Naze-ka-Last-Boss-ni-Sukarete-Issho-ni-Seikatsu-Shitemasu-224x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "tier-1-shimai-yuumei-yonshimai-wa-boku-nashi-de-wa-ikirarenai",
-      "title": "Tier 1 Shimai: Yuumei Yonshimai wa Boku nashi de wa Ikirarenai",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/03/Komik-Tier-1-Shimai-Yuumei-Yonshimai-wa-Boku-nashi-de-wa-Ikirarenai-223x319.jpg",
+      "id": "fuun-kara-no-saikyou-otoko",
+      "title": "Fuun Kara no Saikyou Otoko",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/10/Komik-Fuun-Kara-no-Saikyou-Otoko-224x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "ao-no-hako",
-      "title": "Ao no Hako",
-      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-Ao-no-Hako-219x319.jpg",
+      "id": "the-beginning-after-the-end",
+      "title": "The Beginning After the End",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/01/Komik-The-Beginning-After-the-End-236x295.jpg",
+      "author": "",
+      "source": "komikindo"
+    },
+    {
+      "id": "maou-sama-retry-r",
+      "title": "Maou-sama, Retry! R",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/03/Komik-Maou-sama-Retry-R-222x319.jpg",
       "author": "",
       "source": "komikindo"
     },
@@ -303,205 +387,121 @@
       "source": "komikindo"
     },
     {
-      "id": "gachi-koi-maou-sama",
-      "title": "Gachi Koi Maou-sama",
-      "cover": "https://komikindo.ch/wp-content/uploads/2023/04/Komik-Gachi-Koi-Maou-sama-236x267.jpg",
+      "id": "the-wicked-little-princess",
+      "title": "The Wicked Little Princess",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/11/Komik-The-Wicked-Little-Princess-236x319.png",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "tensai-majo-no-maryoku-kare",
-      "title": "Tensai Majo no Maryoku Kare",
-      "cover": "https://komikindo.ch/wp-content/uploads/2024/08/Komik-Tensai-Majo-no-Maryoku-Kare-225x319.jpg",
+      "id": "xblade",
+      "title": "XBlade",
+      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-XBlade-199x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "after-transmigrating-i-became-an-urban-legend",
-      "title": "After Transmigrating, I Became an Urban Legend",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/03/Komik-Binguihaetdeoni-Goedam-i-Dwae-Beoryeotda-220x319.jpg",
+      "id": "the-story-of-becoming-a-married-man-in-another-world",
+      "title": "The Story of Becoming a Married Man in Another World",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/06/Komik-Isegye-seo-Yubunam-Doen-Sseol-220x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "skill-of-lure",
-      "title": "Skill of Lure",
-      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-Skill-of-Lure-220x319.jpg",
+      "id": "i-really-don-t-want-to-be-the-first",
+      "title": "I Really Don’t Want to Be the First",
+      "cover": "https://komikindo.ch/wp-content/uploads/2022/01/Komik-I-Really-Dont-Want-to-Be-the-First-236x315.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "fool-night",
-      "title": "Fool Night",
-      "cover": "https://komikindo.ch/wp-content/uploads/2022/03/Komik-Fool-Night-225x319.jpg",
+      "id": "i-build-an-industrial-empire-on-the-magic-continent",
+      "title": "I Build an Industrial Empire on the Magic Continent",
+      "cover": "https://komikindo.ch/wp-content/uploads/2024/11/Komik-I-Build-an-Industrial-Empire-on-the-Magic-Continent-236x315.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "netorare-tsuihousareta-saikyou-kishi-danchou-no-ossan-katainaka-de-eiyuu-ni-mats",
-      "title": "Netorare Tsuihousareta Saikyou Kishi Danchou No Ossan, Katainaka De Eiyuu Ni Matsuriagerareru",
-      "cover": "https://komikindo.ch/wp-content/uploads/2025/11/Komik-Netorare-Tsuihousareta-Saikyou-Kishi-Danchou-No-Ossan-Katainaka-De-Eiyuu-Ni-Matsuriagerareru-224x319.jpg",
+      "id": "nimotsu-mochi-no-nousuji-musou",
+      "title": "Nimotsu Mochi no Nousuji Musou",
+      "cover": "https://komikindo.ch/wp-content/uploads/2023/09/Komik-Nimotsu-Mochi-no-Nousuji-Musou-222x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "i-m-alone-in-the-novel",
-      "title": "I’m Alone In The Novel",
-      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-Im-Alone-In-The-Novel-236x319.jpg",
+      "id": "yasashii-kazoku-to-takusan-no-mofumofu-ni-kakomarete",
+      "title": "Yasashii Kazoku to, Takusan no Mofumofu ni Kakomarete.",
+      "cover": "https://komikindo.ch/wp-content/uploads/2021/09/Komik-yasashii-kazoku-to-takusan-no-mofumofu-ni-kakomarete-215x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "choudokyuu-cheat-akuyaku-reijou-no-karei-naru-fukushuutan",
-      "title": "Choudokyuu Cheat Akuyaku Reijou no Karei naru Fukushuutan",
-      "cover": "https://komikindo.ch/wp-content/uploads/2024/03/Komik-Choudokyuu-Cheat-Akuyaku-Reijou-no-Karei-naru-Fukushuutan-224x319.jpg",
+      "id": "in-the-face-of-mental-illness-ghosts-are-nothing",
+      "title": "In the Face of Mental Illness, Ghosts Are Nothing",
+      "cover": "https://komikindo.ch/wp-content/uploads/2024/01/Komik-Jingshenbing-Mianqian-Gui-Dongxi-Suan-Ge-Qiu-236x315.png",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "yuusha-ka-maou-ka-erabasete",
-      "title": "Yuusha ka Maou ka Erabasete",
-      "cover": "https://komikindo.ch/wp-content/uploads/2021/08/Komik-Yuusha-ka-Maou-ka-Erabasete-224x319.jpg",
+      "id": "i-have-90-billion-licking-gold",
+      "title": "I Have 90 Billion Licking Gold",
+      "cover": "https://komikindo.ch/wp-content/uploads/2023/12/Komik-I-Have-90-Billion-Licking-Gold-236x315.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "isekai-gaeri-no-yuusha-wa-dungeon-ga-shutsugen-shita-genjitsu-sekai-de-influence",
-      "title": "Isekai-gaeri no Yuusha wa, Dungeon ga Shutsugen Shita Genjitsu Sekai de, Influencer ni Natte Kane o Kasegimasu!",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/06/Komik-Isekai-gaeri-no-Yuusha-wa-Dungeon-ga-Shutsugen-Shita-Genjitsu-Sekai-de-Influencer-ni-Natte-Kane-o-Kasegimasu-224x319.jpg",
+      "id": "ragna-crimson",
+      "title": "Ragna Crimson",
+      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-Ragna-Crimson-224x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "save-load-no-dekiru-yadoya-san",
-      "title": "Save & Load no Dekiru Yadoya-san",
-      "cover": "https://komikindo.ch/wp-content/uploads/2021/05/Komik-Save-and-Load-no-Dekiru-Yadoya-san-223x319.jpg",
+      "id": "prince-hero",
+      "title": "Prince Hero",
+      "cover": "https://komikindo.ch/wp-content/uploads/2022/02/Komik-Prince-Hero-236x315.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "after-thousands-of-years-of-beta-testing-the-game-finally-finished",
-      "title": "After Thousands Of Years Of Beta Testing, The Game Finally Finished",
-      "cover": "https://komikindo.ch/wp-content/uploads/2022/10/Komik-After-Thousands-Of-Years-Of-Beta-Testing-The-Game-Finally-Finished-236x315.jpg",
+      "id": "dungeon-no-osananajimi",
+      "title": "Dungeon no Osananajimi",
+      "cover": "https://komikindo.ch/wp-content/uploads/2022/09/Komik-Dungeon-no-Osananajimi-224x319.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "saikyou-no-kyuuketsuhime-wa-imouto-ga-hoshii",
-      "title": "Saikyou no Kyuuketsuhime wa Imouto ga Hoshii!!",
-      "cover": "https://komikindo.ch/wp-content/uploads/2022/07/Komik-Saikyou-no-Kyuuketsuhime-wa-Imouto-ga-Hoshii-224x319.jpg",
+      "id": "god-level-takeout-man",
+      "title": "God-Level Takeout Man",
+      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-God-Level-Takeout-Man-236x315.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "musai-no-reijou-jobu-maou-de-juurin-suru",
-      "title": "Musai no Reijou Jobu [Maou] de Juurin Suru",
-      "cover": "https://komikindo.ch/wp-content/uploads/2025/03/Komik-Musai-no-Reijou-Jobu-Maou-de-Juurin-Suru-229x319.jpg",
+      "id": "versatile-mage",
+      "title": "Versatile Mage",
+      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-Versatile-Mage-236x315.png",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "vengeance-of-the-heavenly-demon",
-      "title": "Vengeance of the Heavenly Demon",
-      "cover": "https://komikindo.ch/wp-content/uploads/2020/12/Komik-Vengeance-of-the-Heavenly-Demon-236x315.png",
+      "id": "the-lost-story",
+      "title": "The Lost Story",
+      "cover": "https://komikindo.ch/wp-content/uploads/2025/03/Komik-The-Lost-Story-236x315.jpg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "perfect-supreme",
-      "title": "Perfect Supreme",
-      "cover": "https://komikindo.ch/wp-content/uploads/2022/09/Komik-Perfect-Supreme-230x319.jpg",
+      "id": "i-ll-be-a-villain-in-this-life",
+      "title": "I’ll Be a Villain in This Life",
+      "cover": "https://komikindo.ch/wp-content/uploads/2023/07/Komik-Ill-Be-a-Villain-in-This-Life-223x319.jpeg",
       "author": "",
       "source": "komikindo"
     },
     {
-      "id": "urenokori-no-dorei-elf-wo-hirotta-no-de-musume-ni-suru-koto-ni-shita",
-      "title": "Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita",
-      "cover": "https://komikindo.ch/wp-content/uploads/2024/08/Komik-Urenokori-no-Dorei-Elf-o-Hirotta-no-de-Musume-ni-Suru-Koto-ni-shita-224x319.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "shin-no-jitsuryoku-wa-girigiri-made-kakushite-iyou-to-omou",
-      "title": "Shin no Jitsuryoku wa Girigiri Made Kakushite Iyou to Omou",
-      "cover": "https://komikindo.ch/wp-content/uploads/2021/02/Komik-Shin-no-Jitsuryoku-wa-Girigiri-Made-Kakushite-Iyou-to-Omou-213x319.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "truth-mask",
-      "title": "Truth Mask",
-      "cover": "https://komikindo.ch/wp-content/uploads/2021/01/Komik-Truth-Mask-212x319.png",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "legendary-ranker-s-comeback",
-      "title": "Legendary Ranker’s Comeback",
-      "cover": "https://komikindo.ch/wp-content/uploads/2023/04/Komik-Legendary-Rankers-Comeback-236x306.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "chronicles-of-the-jungle-sovereign",
-      "title": "Chronicles Of The Jungle Sovereign",
-      "cover": "https://komikindo.ch/wp-content/uploads/2024/03/Komik-Chronicles-Of-The-Jungle-Sovereign-236x314.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "the-count-s-youngest-son-is-a-player",
-      "title": "The Count’s Youngest Son Is A Player",
-      "cover": "https://komikindo.ch/wp-content/uploads/2023/11/Komik-The-Counts-Youngest-Son-Is-A-Player-223x319.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "the-blood-knight-s-villains",
-      "title": "The Blood Knight’s Villains",
-      "cover": "https://komikindo.ch/wp-content/uploads/2023/07/Komik-The-Blood-Knights-Villains-223x319.jpeg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "like-father-like-son",
-      "title": "Like Father, Like Son",
-      "cover": "https://komikindo.ch/wp-content/uploads/2026/05/Komik-Like-Father-Like-Son-236x306.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "guard-pass",
-      "title": "Guard Pass",
-      "cover": "https://komikindo.ch/wp-content/uploads/2025/03/Komik-Guard-Pass-236x236.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "i-am-invincible-in-the-fantasy-world-of-the-apocalypse",
-      "title": "I Am Invincible in the Fantasy World of the Apocalypse",
-      "cover": "https://komikindo.ch/wp-content/uploads/2024/05/Komik-I-Am-Invincible-in-the-Fantasy-World-of-the-Apocalypse-236x315.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "sairin-yuusha-no-fukushuu-hanashi",
-      "title": "Sairin Yuusha no Fukushuu Hanashi",
-      "cover": "https://komikindo.ch/wp-content/uploads/2021/02/Komik-Sairin-Yuusha-no-Fukushuu-Hanashi-224x319.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "stuck-by-the-demoness-s-side",
-      "title": "Stuck by the Demoness’s Side",
-      "cover": "https://komikindo.ch/wp-content/uploads/2023/11/Komik-Stuck-by-the-Demoness-Side-236x315.jpg",
-      "author": "",
-      "source": "komikindo"
-    },
-    {
-      "id": "akuyaku-kizoku-to-shite-hitsuyou-na-sore",
-      "title": "Akuyaku Kizoku to shite Hitsuyou na Sore",
-      "cover": "https://komikindo.ch/wp-content/uploads/2024/11/Komik-Akuyaku-Kizoku-to-shite-Hitsuyou-na-Sore-224x319.jpg",
+      "id": "e-guild-nai-de-yuiitsu-cook-wo-kiwameteru-ore-wo-kubi-desu-ka",
+      "title": "E? - Guild-nai de Yuiitsu \"Cook\" wo Kiwameteru Ore wo Kubi desu ka?",
+      "cover": "https://komikindo.ch/wp-content/uploads/2026/07/Komik-E-Guild-nai-de-Yuiitsu-Cook-wo-Kiwameteru-Ore-wo-Kubi-desu-ka-224x319.jpg",
       "author": "",
       "source": "komikindo"
     }
