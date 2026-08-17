@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-s-classes-that-i-raised-00",
+      "mangaId": "the-s-classes-that-i-raised",
+      "chapterNumber": "00",
+      "title": "Chapter Awal Chapter\n                        00",
+      "url": "https://komikindo.ch/the-s-classes-that-i-raised-chapter-00/",
+      "publishedAt": "2026-08-17T10:37:54.929Z"
+    },
+    {
+      "id": "the-s-classes-that-i-raised-171",
+      "mangaId": "the-s-classes-that-i-raised",
+      "chapterNumber": "171",
+      "title": "Chapter Baru Chapter\n                        171",
+      "url": "https://komikindo.ch/the-s-classes-that-i-raised-chapter-171/",
+      "publishedAt": "2026-08-17T10:37:54.929Z"
+    }
+  ],
+  "total": 2
+}
