@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "bizzare-restaurant-1",
+      "mangaId": "bizzare-restaurant",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/bizzare-restaurant-chapter-1/",
+      "publishedAt": "2026-08-17T12:32:28.039Z"
+    },
+    {
+      "id": "bizzare-restaurant-95",
+      "mangaId": "bizzare-restaurant",
+      "chapterNumber": "95",
+      "title": "Chapter Baru Chapter\n                        95",
+      "url": "https://komikindo.ch/bizzare-restaurant-chapter-95/",
+      "publishedAt": "2026-08-17T12:32:28.039Z"
+    }
+  ],
+  "total": 2
+}
