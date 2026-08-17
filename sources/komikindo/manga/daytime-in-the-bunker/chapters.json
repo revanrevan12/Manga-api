@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "daytime-in-the-bunker-1",
+      "mangaId": "daytime-in-the-bunker",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/daytime-in-the-bunker-chapter-1/",
+      "publishedAt": "2026-08-17T12:32:26.676Z"
+    },
+    {
+      "id": "daytime-in-the-bunker-33",
+      "mangaId": "daytime-in-the-bunker",
+      "chapterNumber": "33",
+      "title": "Chapter Baru Chapter\n                        33",
+      "url": "https://komikindo.ch/daytime-in-the-bunker-chapter-33/",
+      "publishedAt": "2026-08-17T12:32:26.676Z"
+    }
+  ],
+  "total": 2
+}
