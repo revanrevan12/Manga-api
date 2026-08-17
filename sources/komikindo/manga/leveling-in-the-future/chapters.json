@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "leveling-in-the-future-1",
+      "mangaId": "leveling-in-the-future",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/leveling-in-the-future-chapter-1/",
+      "publishedAt": "2026-08-17T12:32:30.442Z"
+    },
+    {
+      "id": "leveling-in-the-future-345",
+      "mangaId": "leveling-in-the-future",
+      "chapterNumber": "345",
+      "title": "Chapter Baru Chapter\n                        345",
+      "url": "https://komikindo.ch/leveling-in-the-future-chapter-345/",
+      "publishedAt": "2026-08-17T12:32:30.442Z"
+    }
+  ],
+  "total": 2
+}
