@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-shepherd-wizard-1",
+      "mangaId": "the-shepherd-wizard",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-shepherd-wizard-chapter-1/",
+      "publishedAt": "2026-08-18T03:13:27.834Z"
+    },
+    {
+      "id": "the-shepherd-wizard-32",
+      "mangaId": "the-shepherd-wizard",
+      "chapterNumber": "32",
+      "title": "Chapter Baru Chapter\n                        32",
+      "url": "https://komikindo.ch/the-shepherd-wizard-chapter-32/",
+      "publishedAt": "2026-08-18T03:13:27.834Z"
+    }
+  ],
+  "total": 2
+}
