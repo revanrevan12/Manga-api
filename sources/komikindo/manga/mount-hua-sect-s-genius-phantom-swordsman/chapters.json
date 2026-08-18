@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "mount-hua-sect-s-genius-phantom-swordsman-1",
+      "mangaId": "mount-hua-sect-s-genius-phantom-swordsman",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/mount-hua-sects-genius-phantom-swordsman-chapter-1/",
+      "publishedAt": "2026-08-18T03:13:18.009Z"
+    },
+    {
+      "id": "mount-hua-sect-s-genius-phantom-swordsman-77",
+      "mangaId": "mount-hua-sect-s-genius-phantom-swordsman",
+      "chapterNumber": "77",
+      "title": "Chapter Baru Chapter\n                        77",
+      "url": "https://komikindo.ch/mount-hua-sects-genius-phantom-swordsman-chapter-77/",
+      "publishedAt": "2026-08-18T03:13:18.009Z"
+    }
+  ],
+  "total": 2
+}
