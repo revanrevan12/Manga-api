@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "god-of-blackfield-1",
+      "mangaId": "god-of-blackfield",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/god-of-blackfield-chapter-1/",
+      "publishedAt": "2026-08-18T03:13:25.244Z"
+    },
+    {
+      "id": "god-of-blackfield-330",
+      "mangaId": "god-of-blackfield",
+      "chapterNumber": "330",
+      "title": "Chapter Baru Chapter\n                        330",
+      "url": "https://komikindo.ch/god-of-blackfield-chapter-330/",
+      "publishedAt": "2026-08-18T03:13:25.244Z"
+    }
+  ],
+  "total": 2
+}
