@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "i-shall-master-this-family-0",
+      "mangaId": "i-shall-master-this-family",
+      "chapterNumber": "0",
+      "title": "Chapter Awal Chapter\n                        0",
+      "url": "https://komikindo.ch/i-shall-master-this-family-chapter-0/",
+      "publishedAt": "2026-08-18T03:12:52.825Z"
+    },
+    {
+      "id": "i-shall-master-this-family-229",
+      "mangaId": "i-shall-master-this-family",
+      "chapterNumber": "229",
+      "title": "Chapter Baru Chapter\n                        229",
+      "url": "https://komikindo.ch/i-shall-master-this-family-chapter-229/",
+      "publishedAt": "2026-08-18T03:12:52.825Z"
+    }
+  ],
+  "total": 2
+}
