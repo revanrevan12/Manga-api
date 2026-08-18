@@ -1,5 +1,22 @@
 {
   "success": true,
-  "data": [],
-  "total": 0
+  "data": [
+    {
+      "id": "absolute-regression-1",
+      "mangaId": "absolute-regression",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/absolute-regression-chapter-1/",
+      "publishedAt": "2026-08-18T03:13:45.758Z"
+    },
+    {
+      "id": "absolute-regression-115",
+      "mangaId": "absolute-regression",
+      "chapterNumber": "115",
+      "title": "Chapter Baru Chapter\n                        115",
+      "url": "https://komikindo.ch/absolute-regression-chapter-115/",
+      "publishedAt": "2026-08-18T03:13:45.758Z"
+    }
+  ],
+  "total": 2
 }
