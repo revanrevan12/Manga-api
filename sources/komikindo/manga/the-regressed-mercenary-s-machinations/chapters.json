@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-regressed-mercenary-s-machinations-1",
+      "mangaId": "the-regressed-mercenary-s-machinations",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-regressed-mercenarys-machinations-chapter-1/",
+      "publishedAt": "2026-08-18T03:12:31.255Z"
+    },
+    {
+      "id": "the-regressed-mercenary-s-machinations-102",
+      "mangaId": "the-regressed-mercenary-s-machinations",
+      "chapterNumber": "102",
+      "title": "Chapter Baru Chapter\n                        102",
+      "url": "https://komikindo.ch/the-regressed-mercenarys-machinations-chapter-102/",
+      "publishedAt": "2026-08-18T03:12:31.255Z"
+    }
+  ],
+  "total": 2
+}
