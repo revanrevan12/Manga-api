@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "behemoth-no-hanamuko-1",
+      "mangaId": "behemoth-no-hanamuko",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/behemoth-no-hanamuko-chapter-1/",
+      "publishedAt": "2026-08-18T03:12:38.656Z"
+    },
+    {
+      "id": "behemoth-no-hanamuko-7",
+      "mangaId": "behemoth-no-hanamuko",
+      "chapterNumber": "7",
+      "title": "Chapter Baru Chapter\n                        7",
+      "url": "https://komikindo.ch/behemoth-no-hanamuko-chapter-7/",
+      "publishedAt": "2026-08-18T03:12:38.656Z"
+    }
+  ],
+  "total": 2
+}
