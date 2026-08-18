@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "koibumi-to-13-sai-no-joyuu-1-1",
+      "mangaId": "koibumi-to-13-sai-no-joyuu",
+      "chapterNumber": "1.1",
+      "title": "Chapter Awal Chapter\n                        1.1",
+      "url": "https://komikindo.ch/koibumi-to-13-sai-no-joyuu-chapter-1-1/",
+      "publishedAt": "2026-08-18T03:12:43.100Z"
+    },
+    {
+      "id": "koibumi-to-13-sai-no-joyuu-19",
+      "mangaId": "koibumi-to-13-sai-no-joyuu",
+      "chapterNumber": "19",
+      "title": "Chapter Baru Chapter\n                        19",
+      "url": "https://komikindo.ch/koibumi-to-13-sai-no-joyuu-chapter-19/",
+      "publishedAt": "2026-08-18T03:12:43.100Z"
+    }
+  ],
+  "total": 2
+}
