@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "the-corruption-immune-swordsman-s-calamity-sword-1",
+      "mangaId": "the-corruption-immune-swordsman-s-calamity-sword",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/the-corruption-immune-swordsmans-calamity-sword-chapter-1/",
+      "publishedAt": "2026-08-18T03:13:08.764Z"
+    },
+    {
+      "id": "the-corruption-immune-swordsman-s-calamity-sword-10",
+      "mangaId": "the-corruption-immune-swordsman-s-calamity-sword",
+      "chapterNumber": "10",
+      "title": "Chapter Baru Chapter\n                        10",
+      "url": "https://komikindo.ch/the-corruption-immune-swordsmans-calamity-sword-chapter-10/",
+      "publishedAt": "2026-08-18T03:13:08.764Z"
+    }
+  ],
+  "total": 2
+}
