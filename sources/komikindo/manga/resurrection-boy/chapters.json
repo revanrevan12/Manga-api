@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "resurrection-boy-1",
+      "mangaId": "resurrection-boy",
+      "chapterNumber": "1",
+      "title": "Chapter Awal Chapter\n                        1",
+      "url": "https://komikindo.ch/resurrection-boy-chapter-1/",
+      "publishedAt": "2026-08-18T03:12:50.416Z"
+    },
+    {
+      "id": "resurrection-boy-34",
+      "mangaId": "resurrection-boy",
+      "chapterNumber": "34",
+      "title": "Chapter Baru Chapter\n                        34",
+      "url": "https://komikindo.ch/resurrection-boy-chapter-34/",
+      "publishedAt": "2026-08-18T03:12:50.416Z"
+    }
+  ],
+  "total": 2
+}
