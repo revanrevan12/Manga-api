@@ -1,5 +1,350 @@
 {
   "success": true,
-  "data": [],
-  "total": 0
+  "data": [
+    {
+      "id": "echoes-of-the-reverse-planet-42",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "42",
+      "title": "Ch. 42",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/42",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-41",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "41",
+      "title": "Ch. 41",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/41",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-40",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "40",
+      "title": "Ch. 40",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/40",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-39",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "39",
+      "title": "Ch. 39",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/39",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-38",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "38",
+      "title": "Ch. 38",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/38",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-37",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "37",
+      "title": "Ch. 37",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/37",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-36",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "36",
+      "title": "Ch. 36",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/36",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-35",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "35",
+      "title": "Ch. 35",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/35",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-34",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "34",
+      "title": "Ch. 34",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/34",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-33",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "33",
+      "title": "Ch. 33",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/33",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-32",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "32",
+      "title": "Ch. 32",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/32",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-31",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "31",
+      "title": "Ch. 31",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/31",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-30",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "30",
+      "title": "Ch. 30",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/30",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-29",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "29",
+      "title": "Ch. 29",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/29",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-28",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "28",
+      "title": "Ch. 28",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/28",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-27",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "27",
+      "title": "Ch. 27",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/27",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-26",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "26",
+      "title": "Ch. 26",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/26",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-25",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "25",
+      "title": "Ch. 25",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/25",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-24",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "24",
+      "title": "Ch. 24",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/24",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-23",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "23",
+      "title": "Ch. 23",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/23",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-22",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "22",
+      "title": "Ch. 22",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/22",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-21",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "21",
+      "title": "Ch. 21",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/21",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-20",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "20",
+      "title": "Ch. 20",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/20",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-19",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "19",
+      "title": "Ch. 19",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/19",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-18",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "18",
+      "title": "Ch. 18",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/18",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-17",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "17",
+      "title": "Ch. 17",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/17",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-16",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "16",
+      "title": "Ch. 16",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/16",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-15",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "15",
+      "title": "Ch. 15",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/15",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-14",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "14",
+      "title": "Ch. 14",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/14",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-13",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "13",
+      "title": "Ch. 13",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/13",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-12",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "12",
+      "title": "Ch. 12",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/12",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-11",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "11",
+      "title": "Ch. 11",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/11",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-10",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "10",
+      "title": "Ch. 10",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/10",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-9",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "9",
+      "title": "Ch. 9",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/9",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-8",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "8",
+      "title": "Ch. 8",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/8",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-7",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "7",
+      "title": "Ch. 7",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/7",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-6",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "6",
+      "title": "Ch. 6",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/6",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-5",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "5",
+      "title": "Ch. 5",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/5",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-4",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "4",
+      "title": "Ch. 4",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/4",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-3",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "3",
+      "title": "Ch. 3",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/3",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-2",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "2",
+      "title": "Ch. 2",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/2",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-1",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "1",
+      "title": "Ch. 1",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/1",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    },
+    {
+      "id": "echoes-of-the-reverse-planet-0",
+      "mangaId": "echoes-of-the-reverse-planet",
+      "chapterNumber": "0",
+      "title": "Ch. 0",
+      "url": "https://wurmz.net/detail/manhwa/gema-planet-terbalik/chapter/0",
+      "publishedAt": "2026-08-19T09:46:52.441Z"
+    }
+  ],
+  "total": 43
 }
