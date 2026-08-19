@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni",
+      "mangaId": "ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni",
+      "chapterNumber": "3",
+      "title": "Chapter 3",
+      "url": "https://komikindo.ch/ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni-shita-chapter-3/",
+      "publishedAt": "2026-08-19T15:51:52.631Z"
+    },
+    {
+      "id": "ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni",
+      "mangaId": "ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni",
+      "chapterNumber": "2",
+      "title": "Chapter 2",
+      "url": "https://komikindo.ch/ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni-shita-chapter-2/",
+      "publishedAt": "2026-08-19T15:51:52.631Z"
+    },
+    {
+      "id": "ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni",
+      "mangaId": "ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni",
+      "chapterNumber": "1",
+      "title": "Chapter 1",
+      "url": "https://komikindo.ch/ore-wa-gimai-ni-uso-wo-tsuku-chi-no-tsunaganai-imouto-wo-ore-ga-hikitoru-koto-ni-shita-chapter-1/",
+      "publishedAt": "2026-08-19T15:51:52.631Z"
+    }
+  ],
+  "total": 3
+}
