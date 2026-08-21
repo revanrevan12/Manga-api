@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "data": {
+    "id": "the-game-s-greatest-troll-the-game-s-top-troll-1",
+    "mangaId": "the-game-s-greatest-troll-the-game-s-top-troll",
+    "chapterNumber": "1",
+    "title": "Ch. 1",
+    "pages": [
+      "https://cdn6.wurmz.net/img/v142e69452af33-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1hV7V5zQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1637ecbd3cff0-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1hW_1lFQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1db901f8b9568-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1hXzGZkQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v185b194054a40-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1hQwXl1Qa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v12a8566efcc32-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1hRwE13Qa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v107f7b1ee3193-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1hS0G5CQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v14eb5e7cd9e82-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1hTzH1OQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1b06e18b53cb5-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1hcyD5qQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v14c3d36333875-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1hdwThJQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1ff735ded10c3-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1lU1mZ0Qa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v101ff84e20fb3-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1lVwUxVQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1b2073afa2f16-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1lW6VxzQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v10cdb4f21814b-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1lXzFBGQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v159e5cf2c6c9d-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1lQ-nphQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1f7ca7f88a101-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1lRzUE3Qa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1d07948316b59-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1lS7FByQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1f80835a08e4d-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1lT20t1Qa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1ac2a8c56e6af-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1lc90RiQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v126e759d10406-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1ld924yQa3TAaE.webp",
+      "https://cdn6.wurmz.net/img/v1875dbf99e379-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOueAg2E0C_oOaymu0faN0h1nvCYcFtdkb0Lywgu0jx8v4oCJdXgS8Fk1cLvM_4CPVyXnO1pU2XB0Qa3TAaE.webp"
+    ],
+    "publishedAt": "2026-08-21T20:55:05.751Z"
+  }
+}
