@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "id": "can-i-put-you-on-the-spot-0-1",
+    "mangaId": "can-i-put-you-on-the-spot",
+    "chapterNumber": "0.1",
+    "title": "Ch. 0.1",
+    "pages": [
+      "https://cdn1.wurmz.net/img/v1a43663372100-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OXVn64bA.webp",
+      "https://cdn1.wurmz.net/img/v1f10e06cf4fbf-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OUVn64bA.webp",
+      "https://cdn1.wurmz.net/img/v1abc513f09773-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OVVn64bA.webp",
+      "https://cdn1.wurmz.net/img/v16acfb746a15f-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OSVn64bA.webp",
+      "https://cdn1.wurmz.net/img/v101443ea4b883-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OTVn64bA.webp",
+      "https://cdn1.wurmz.net/img/v1d18f4b5d24da-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OQVn64bA.webp",
+      "https://cdn1.wurmz.net/img/v1e241f23afda6-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58ORVn64bA.webp",
+      "https://cdn1.wurmz.net/img/v110f0854fd80d-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OeVn64bA.webp",
+      "https://cdn1.wurmz.net/img/v1b5d0ef437765-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OfVn64bA.webp",
+      "https://cdn1.wurmz.net/img/v1b05885d8b4bc-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OXSDqiew8.webp",
+      "https://cdn1.wurmz.net/img/v1c52020cb5bbf-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OXSTqiew8.webp",
+      "https://cdn1.wurmz.net/img/v1d9cef0ab4324-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OXSjqiew8.webp",
+      "https://cdn1.wurmz.net/img/v13b71b24b676c-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OXSzqiew8.webp",
+      "https://cdn1.wurmz.net/img/v1c6caa92cc092-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OXTDqiew8.webp",
+      "https://cdn1.wurmz.net/img/v1a7334bcc814d-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OXTTqiew8.webp",
+      "https://cdn1.wurmz.net/img/v16d35f40dd6b6-5jSCGfyJEcH3GYtBq7XALnLViP2y8diehHvBHtrp9f2gtJXYbhnBwXceywGt9cEtNFXLaCGz2h4D7JZbXDk2vyZixd65X8AAZV7cwCumQC5wwg66peDNmVLrgRsZaTC58OXTjqiew8.webp"
+    ],
+    "publishedAt": "2026-08-21T20:48:26.407Z"
+  }
+}
