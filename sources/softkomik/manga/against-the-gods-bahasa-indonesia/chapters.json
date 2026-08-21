@@ -1,5 +1,30 @@
 {
   "success": true,
-  "data": [],
-  "total": 0
+  "data": [
+    {
+      "id": "against-the-gods-bahasa-indonesia-2026",
+      "mangaId": "against-the-gods-bahasa-indonesia",
+      "chapterNumber": "2026",
+      "title": "Against the GodsTerakhir diperbarui: 2026-8-21",
+      "url": "https://softkomik.co/",
+      "publishedAt": "2026-08-21T20:45:54.244Z"
+    },
+    {
+      "id": "against-the-gods-bahasa-indonesia-10",
+      "mangaId": "against-the-gods-bahasa-indonesia",
+      "chapterNumber": "10",
+      "title": "Judul KomikAgainst the GodsJenis KomikmanhuaStatusongoingTahun Rilis2018AuthorMars GravityChapter TerbaruChapter 777Rati",
+      "url": "https://softkomik.co/komik/type/manhua",
+      "publishedAt": "2026-08-21T20:45:54.244Z"
+    },
+    {
+      "id": "against-the-gods-bahasa-indonesia-3",
+      "mangaId": "against-the-gods-bahasa-indonesia",
+      "chapterNumber": "3",
+      "title": "Bookmark FBBeri Rating",
+      "url": "https://softkomik.co/akun",
+      "publishedAt": "2026-08-21T20:45:54.244Z"
+    }
+  ],
+  "total": 3
 }
