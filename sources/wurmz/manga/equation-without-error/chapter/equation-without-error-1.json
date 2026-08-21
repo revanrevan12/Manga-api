@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "id": "equation-without-error-1",
+    "mangaId": "equation-without-error",
+    "chapterNumber": "1",
+    "title": "Ch. 1",
+    "pages": [
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/001_b3f1da80ad8cc5873297198957e9d048.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/002_75b002e2e154bf1239fb3482f38eb403.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/003_e86c6fd8a8b69198364217e249f68500.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/004_72d9bd3acaacef514618df4aecb8ce38.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/005_6bd8fafb216cb4ab776c365f5b6f7a63.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/006_67ad8851042842e5485eb0a253059c2a.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/007_af771a5402f5a8f51faa6a4123c5c017.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/008_5ff3d7a7a73ed19a3fa02b13210cc05e.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/009_fdbd1b750cd137d0dfeac6417c0dd5e7.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/010_5846d573bcce91001e324656a1d14ac0.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/011_d8fe19bcd8d8e2dd1ebccfdd29f9bd86.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/012_f7b5d24173bb9fc2cdf5390c70d25a4c.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/013_04e8009c716f8b37c2e7e6504b4710a2.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/014_0f2e30a41c0ffb8ff07f26d1c960ba85.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/015_ed39832075038e4201804f641c068215.jpg",
+      "https://img.klikcdn.com/data-manga/manga_59f95c251fa3d41b72f84e730bcc0e01/dd712f523b8cdf0973e766d4b3a818a3/016_fc9734d09bf0e4df4fe013854dec323d.jpg"
+    ],
+    "publishedAt": "2026-08-21T20:48:32.941Z"
+  }
+}
