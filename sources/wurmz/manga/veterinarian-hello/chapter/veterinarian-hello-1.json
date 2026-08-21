@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": {
+    "id": "veterinarian-hello-1",
+    "mangaId": "veterinarian-hello",
+    "chapterNumber": "1",
+    "title": "Ch. 1",
+    "pages": [
+      "https://cdn.uqni.net/users/554/2026/07/382539ww8a89auggnjte001-662062.webp",
+      "https://cdn.uqni.net/users/554/2026/07/382539rxmn4oiycw001-513893.webp",
+      "https://cdn.uqni.net/users/554/2026/07/3825393g4ykarvjobem001-226605.webp",
+      "https://cdn.uqni.net/users/554/2026/07/382539uzpjlzmiqk0p002-643600.webp",
+      "https://cdn.uqni.net/users/554/2026/07/382539m872z4dh5002-391255.webp",
+      "https://cdn.uqni.net/users/554/2026/07/382539zdiwxdfhq521002-402980.webp",
+      "https://cdn.uqni.net/users/554/2026/07/382539cbzrg7mwim003-841020.webp",
+      "https://cdn.uqni.net/users/554/2026/07/382539ulgswkqkn003-127036.webp",
+      "https://cdn.uqni.net/users/554/2026/07/382539fhtekgnitanl3b003-479945.webp",
+      "https://cdn.uqni.net/users/554/2026/07/38253947e874uhn004-484146.webp",
+      "https://cdn.uqni.net/users/554/2026/07/382539dtwnvjcqiras4ilm004-225466.webp"
+    ],
+    "publishedAt": "2026-08-21T20:49:02.289Z"
+  }
+}
