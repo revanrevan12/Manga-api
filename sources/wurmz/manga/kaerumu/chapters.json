@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "kaerumu-2",
+      "mangaId": "kaerumu",
+      "chapterNumber": "2",
+      "title": "Ch. 2",
+      "url": "https://wurmz.net/detail/manga/caelum/chapter/2",
+      "publishedAt": "2026-08-21T20:48:29.747Z"
+    },
+    {
+      "id": "kaerumu-1",
+      "mangaId": "kaerumu",
+      "chapterNumber": "1",
+      "title": "Ch. 1",
+      "url": "https://wurmz.net/detail/manga/caelum/chapter/1",
+      "publishedAt": "2026-08-21T20:48:29.747Z"
+    }
+  ],
+  "total": 2
+}
