@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "data": {
+    "id": "took-on-the-villain-boss-s-request-1",
+    "mangaId": "took-on-the-villain-boss-s-request",
+    "chapterNumber": "1",
+    "title": "Ch. 1",
+    "pages": [
+      "https://cdn6.wurmz.net/img/v114991fbfd33a-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo9yXCSGZJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v11a8d2d1f3f98-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo9yUCFCaJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v1f679e63b461f-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo9yVKW2eJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v15f452dc7c417-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo9ySEH-KJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v1ed47694e0701-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo9yTCmaRJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v11e35b005da85-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo9yQCnWbJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v147ac09a7c5e5-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo9yREk2sJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v19da13cc5f40a-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo9yeNmSfJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v16297372dc374-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo9yfKWf4JR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v1b192562603b7-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo92WDSaNJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v172336c59cc05-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo92XP0CeJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v1bf741d901ce9-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo92UO3GwJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v181e58b9bec69-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo92VAVi9JR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v12967419e09e3-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo92SNnexJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v1c884ee6c073d-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo92TSn6PJR8B2ng.webp",
+      "https://cdn6.wurmz.net/img/v1f53d318f184a-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tZXOuCKxSs6CLJdcGHk1fqAyhl9piYKC8t7Lhz3xAag1x09-8rNbjQW60xqKfiMo92QSFKxJR8B2ng.webp"
+    ],
+    "publishedAt": "2026-08-21T20:55:25.488Z"
+  }
+}
