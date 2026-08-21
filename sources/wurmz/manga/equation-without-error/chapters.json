@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "equation-without-error-2",
+      "mangaId": "equation-without-error",
+      "chapterNumber": "2",
+      "title": "Ch. 2",
+      "url": "https://wurmz.net/detail/manhwa/sebuah-persamaan-tanpa-jawaban-salah/chapter/2",
+      "publishedAt": "2026-08-21T20:48:32.941Z"
+    },
+    {
+      "id": "equation-without-error-1",
+      "mangaId": "equation-without-error",
+      "chapterNumber": "1",
+      "title": "Ch. 1",
+      "url": "https://wurmz.net/detail/manhwa/sebuah-persamaan-tanpa-jawaban-salah/chapter/1",
+      "publishedAt": "2026-08-21T20:48:32.941Z"
+    }
+  ],
+  "total": 2
+}
