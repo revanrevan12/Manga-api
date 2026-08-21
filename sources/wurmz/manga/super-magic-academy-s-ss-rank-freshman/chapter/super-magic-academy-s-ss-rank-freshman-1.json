@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "data": {
+    "id": "super-magic-academy-s-ss-rank-freshman-1",
+    "mangaId": "super-magic-academy-s-ss-rank-freshman",
+    "chapterNumber": "1",
+    "title": "Ch. 1",
+    "pages": [
+      "https://cdn6.wurmz.net/img/v16db5cdf4e4c7-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNPia5oaID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v11efa14fda59c-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNPvn8YuID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1804fa15c6631-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNPrr-I2ID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1bdeeef8051da-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNP3Ept-ID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1f97012a2af33-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNPyV6aGID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1436228493eaa-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNP_H1YeID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v15e1a723422a0-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNP7SxaqID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v197dc6d9d010f-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNPHN8ZWID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1b6b9bddd095b-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNPDk9qaID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1eeb20d21afcd-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNfnI_byID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1e796966cf5da-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNfj6ytmID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v14bd47c6f4293-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNfvV3baID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1aa50ef6725e4-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNfqWwKqID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v18b0a8c1e63d8-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNf3G4t2ID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1d7efc257ba1f-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNfzwotmID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v16087297e0720-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNf_gw6WID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1ba8b55014bf4-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNf7Tqp-ID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1b7f0c26c665b-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNfHF_Y6ID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v1edad3df1b9bf-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNfCb34KID3Gqew.webp",
+      "https://cdn6.wurmz.net/img/v19920a020e170-5jSCGfyJEcH3GZkGr-YDqiMESqgldtkOQ_8BnFprozGn8MKZ-c6R1WXb2ICuNcR_tFXPfqVy3R4C_5OcWfkwvCNwh15sSwbSct7Lh272Aj8xAor_I3DZztJrgYoNvnx54KID3Gqew.webp"
+    ],
+    "publishedAt": "2026-08-21T20:55:21.879Z"
+  }
+}
