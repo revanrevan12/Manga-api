@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "data": {
+    "id": "kaerumu-2",
+    "mangaId": "kaerumu",
+    "chapterNumber": "2",
+    "title": "Ch. 2",
+    "pages": [
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/1.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/2.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/3.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/4.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/5.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/6.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/7.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/8.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/9.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/10.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/11.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/12.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/13.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/14.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/15.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/16.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/17.jpg",
+      "https://kiru.kyut.dev/wp-content/scr/C/caelum/2/18.jpg"
+    ],
+    "publishedAt": "2026-08-21T20:48:29.747Z"
+  }
+}
